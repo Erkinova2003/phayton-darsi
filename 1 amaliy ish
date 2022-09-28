@@ -1,0 +1,7 @@
+# 10-misol.
+a=int(input("a ga raqam kiriting="))
+b=int(input(" b ga raqam kiriting="))
+S=a*b
+P=2*(a+b)
+print("javobi=",S);
+print("javobi=",P);
